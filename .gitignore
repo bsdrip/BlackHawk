@@ -138,3 +138,6 @@ GitHub.sublime-settings
 
 # Undo files
 *~
+
+# Pipfile lock
+Pipfile.lock
