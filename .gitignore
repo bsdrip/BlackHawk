@@ -141,3 +141,6 @@ GitHub.sublime-settings
 
 # Pipfile lock
 Pipfile.lock
+
+# DS Store
+.DS_Store
