@@ -1,0 +1,3 @@
+[submodule "library/scanning/resources/nvd-json-data-feeds"]
+	path = library/scanning/resources/nvd-json-data-feeds
+	url = https://github.com/fkie-cad/nvd-json-data-feeds.git
