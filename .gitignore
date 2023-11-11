@@ -144,3 +144,6 @@ Pipfile.lock
 
 # DS Store
 .DS_Store
+
+# migrations
+VulnerabilityScanner/migrations/
