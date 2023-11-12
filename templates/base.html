@@ -23,10 +23,10 @@
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav me-auto">
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="#">Dashboard</a>
+            <a class="nav-link" id="dashboard" href="{% url 'dashboard' %}">Dashboard</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Recent Scans</a>
+            <a class="nav-link" id="recent-scans" href="#">Recent Scans</a>
           </li>
         </ul>
       </div>
@@ -35,10 +35,10 @@
       <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav ms-auto">
           <li class="nav-item">
-            <a class="nav-link" href="#">Docs</a>
+            <a class="nav-link" id="docs" href="#">Docs</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">About</a>
+            <a class="nav-link" id="about" href="#">About</a>
           </li>
           <li class="nav-item">
           <a href="{% url 'new_scan' %}">
