@@ -1,0 +1,6 @@
+django==4.2.4
+python3-nmap==1.6.0
+celery==5.3.5
+markdown
+weasyprint==60.1
+redis==5.0.1
