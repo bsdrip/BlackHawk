@@ -9,6 +9,13 @@ BlackHawk is a sophisticated host-based vulnerability scanner designed to enhanc
 ## Installation
 ---
 
+Quick setup:
+```
+docker-compose up --build
+```
+
+or
+
 1. Clone the repository:
 ```
 git clone --recurse-submodules -j8 https://github.com/bsdrip/BlackHawk.git
