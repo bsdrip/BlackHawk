@@ -4,7 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-django = "4.2.4"
+django = "4.2.10"
 python3-nmap = "1.6.0"
 celery = "5.3.5"
 markdown = "*"
